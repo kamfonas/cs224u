@@ -10,7 +10,7 @@ __version__ = "CS224u, Stanford, Fall 2020"
 
 TURN_BOUNDARY =  " ### "
 
-
+ 
 class ColorsCorpusReader:
     """
     Basic interface for the Stanford Colors in Context corpus:
